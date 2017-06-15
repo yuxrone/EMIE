@@ -1,0 +1,14 @@
+<rules version="1.2">
+  <emie>
+    <domain exclude="false">iiihypqaweb.itochu.com</domain>
+    <domain exclude="false">iiihypqaweb</domain>
+    <domain exclude="false">iiihypprdweb.itochu.com</domain>
+    <domain exclude="false">iiihypprdweb</domain>
+	<domain exclude="false">carhfm01.itochu.com</domain>
+	<domain exclude="false">carhfm01</domain>
+    <domain exclude="false">cfo.itochu.com</domain>
+    <domain exclude="false">ipu-texperttest.itochu.co.jp</domain>
+    <domain exclude="false">ipu-texpert.itochu.co.jp</domain>
+    <domain exclude="false">cms.us.bk.mufg.jp</domain>	
+  </emie>
+</rules>
